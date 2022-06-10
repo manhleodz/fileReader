@@ -1,0 +1,4 @@
+Candidate[id=01,name=Hien,selection=A,sex=Maleyear=18priority=4]
+Candidate[id=01,name=Dat,selection=A,sex=Maleyear=18priority=4]
+Candidate[id=01,name=Dat,selection=A,sex=Maleyear=18priority=4]
+Candidate[id=01,name=Toan,selection=A,sex=Maleyear=18priority=4]
